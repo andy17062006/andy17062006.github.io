@@ -1,5 +1,14 @@
 body {
-    background: #790788
+    
+}
+
+#banner {
+    width:100%;
+}
+
+.principal{
+    background: #bd4141;
+    padding: 30px;
 }
 
 h1 {
@@ -10,10 +19,33 @@ p {
     text-align: center;
 }
 
-#Nós {
+#nós {
     font-size: 20px
 }
 
 em strong {
-    color:#790788
+    color: #ffffffe1;
+}
+
+.itens {
+    font-style: italic
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
